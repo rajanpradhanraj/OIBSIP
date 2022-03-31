@@ -1,5 +1,5 @@
-<!-- 1st Task 
- Landing Page-->
+<!-- 1st Task -->
+<!-- Landing Page -->
 
 <!DOCTYPE html>
 <html>  
