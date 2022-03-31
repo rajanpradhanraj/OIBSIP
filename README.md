@@ -2,7 +2,7 @@
 # Landing Page
 
 <!DOCTYPE html>
-<html>
+<html>  nm?jk,ui
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=everyone">
@@ -14,7 +14,7 @@
 	*{
 		box-sizing: border-box;
 	}
-	html{ 
+	html{      
 		scroll-behavior: smooth;
 	}
 		body{
